@@ -1,0 +1,4 @@
+#!/bin/bash
+
+NAME = "Oleksandr"
+echo "Hello $NAME, how are you?"
