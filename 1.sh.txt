@@ -3,3 +3,4 @@
 NAME = "Oleksandr"
 echo "Hello $NAME, how are you?"
 echo "This is good"
+echo "Changes from second branch"
