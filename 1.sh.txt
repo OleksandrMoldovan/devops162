@@ -2,3 +2,4 @@
 
 NAME = "Oleksandr"
 echo "Hello $NAME, how are you?"
+echo "This is good"
